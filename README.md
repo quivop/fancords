@@ -57,11 +57,11 @@ Pan-fandom server for the [Yuletide](https://archiveofourown.org/collections/yul
 
 ## Single fandom servers
 
-<!-- #### Captive Prince
+#### Captive Prince
 
 | Name | Description | Notes | Invite Link |
 | -- | -- | -- | -- |
-| namae | descript | n/a | <link> | -->
+| Captive Prince Group | A server focusing on the Captive Prince fandom. | Has a private NSFW sister server you can get into by DM-ing mods for a link. Who to DM is explained in CPG rules. | <https://discord.gg/xCS3TJb> |
 
 #### Harry Potter
 
