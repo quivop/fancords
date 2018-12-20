@@ -14,23 +14,16 @@ Obviously, which servers and fandoms get added is at my discretion. While I will
 
 - [Multifandom or cross-fandom servers](#Multifandom-servers)
 - Single fandom servers
-	- [Captive Prince](#Captive-Prince)
+	<!-- - [Captive Prince](#Captive-Prince) -->
 	- [Harry Potter](#Harry-Potter)
 
 
 <!-- Fandom Template 
-#### Fandom/server name
-
-Description here.
-
-**Notes:** 18+ only, etc
-**Invite link:** <link>
-
 TABLE TEMPLATE
 
 | Name | Description | Notes | Invite Link |
 | -- | -- | -- | -- |
-| namae | descript | n/a | <link |
+| namae | descript | n/a | <link> |
 
 -->
 
@@ -40,28 +33,16 @@ TABLE TEMPLATE
 | -- | -- | -- | -- |
 | Fail_FandomAnon | Pan-fandom server affiliated with the [fail_fandomanon](https://fail-fandomanon.dreamwidth.org/ "fail fandom anon community") community on Dreamwidth. | 18+ only | <https://discord.gg/6G2fx3D> |
 | Yuletide | Pan-fandom server for the [Yuletide](https://archiveofourown.org/collections/yuletide2018/profile "Yuletide profile page on Archive of Our Own") exchange. | 18+ only | <https://discord.gg/49NXABD> |
+| Killer Lover | A multi-fandom server for discussing unorthodox, dark and/or rare ships. Started as Harry Potter-centric, currently has some general fandom channels plus specific ones for Bleach, MCU and Gravity Falls. | 16+ only | <https://discord.gg/WbS8FWN> |
 
-<!-- #### Fail_FandomAnon
-
-Pan-fandom server affiliated with the [fail_fandomanon](https://fail-fandomanon.dreamwidth.org/ "fail fandom anon community") community on Dreamwidth.
-
-**Notes:** 18+ only
-**Invite link:** <https://discord.gg/6G2fx3D>
-
-#### Yuletide
-
-Pan-fandom server for the [Yuletide](https://archiveofourown.org/collections/yuletide2018/profile "Yuletide profile page on Archive of Our Own") exchange.
-
-**Notes:** 18+ only
-**Invite link:** <https://discord.gg/49NXABD> -->
 
 ## Single fandom servers
 
-#### Captive Prince
+<!-- #### Captive Prince
 
 | Name | Description | Notes | Invite Link |
 | -- | -- | -- | -- |
-| Captive Prince Group | A server focusing on the Captive Prince fandom. | Has a private NSFW sister server you can get into by DM-ing mods for a link. Who to DM is explained in CPG rules. | <https://discord.gg/xCS3TJb> |
+| Captive Prince Group | A server focusing on the Captive Prince fandom. | Has a private NSFW sister server you can get into by DM-ing mods for a link. Who to DM is explained in CPG rules. | <https://discord.gg/xCS3TJb> | -->
 
 #### Harry Potter
 
@@ -69,5 +50,9 @@ Pan-fandom server for the [Yuletide](https://archiveofourown.org/collections/yul
 | -- | -- | -- | -- |
 | ##hpfanfiction | Server for the [hpfanfiction reddit](https://www.reddit.com/r/HPfanfiction/ "hp fanfiction reddit"). | n/a | <https://discord.gg/vb3Z7XQ> |
 | Mud and Blood | A Tom/Hermione server. | 18+ only | <https://discord.gg/ZZvnUzn> |
+| The Chamber of Secrets | A Tom/Harry server. | 14+ only | <https://discordapp.com/invite/kPFavxE> |
+| Drarry Fans | A Harry/Draco server. | 18+ only | <https://discord.gg/Uxf4tNp> |
+
+
 
 
