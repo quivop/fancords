@@ -68,6 +68,6 @@ Pan-fandom server for the [Yuletide](https://archiveofourown.org/collections/yul
 | Name | Description | Notes | Invite Link |
 | -- | -- | -- | -- |
 | ##hpfanfiction | Server for the [hpfanfiction reddit](https://www.reddit.com/r/HPfanfiction/ "hp fanfiction reddit"). | n/a | <https://discord.gg/vb3Z7XQ> |
-| namae | descript | Notus | <link> |
+| Mud and Blood | A Tom/Hermione server. | 18+ only | <https://discord.gg/ZZvnUzn> |
 
 
