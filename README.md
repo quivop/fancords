@@ -16,7 +16,7 @@ Obviously, which servers and fandoms get added is at my discretion. While I will
 
 - Single fandom servers
 	- [Harry Potter](#Harry-Potter)
-	- [Marvel Cinematic Universe](#MCU)
+	- [Marvel Cinematic Universe](#Marvel-Cinematic-Universe)
 	
 
 ### Multifandom servers
@@ -40,7 +40,7 @@ Obviously, which servers and fandoms get added is at my discretion. While I will
 | Drarry Fans | A Harry/Draco server. Has channels for German, Spanish, French and Hindi chat. | 18+ only | <https://discord.gg/Uxf4tNp> |
 
 
-#### Marvel Cinematic Universe {#MCU}
+#### Marvel Cinematic Universe
 
 | Name | Description | Notes | Invite Link |
 | -- | -- | -- | -- |
