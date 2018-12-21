@@ -51,7 +51,7 @@ TABLE TEMPLATE
 | ##hpfanfiction | Server for the [hpfanfiction reddit](https://www.reddit.com/r/HPfanfiction/ "hp fanfiction reddit"). | n/a | <https://discord.gg/vb3Z7XQ> |
 | Mud and Blood | A Tom/Hermione server. | 18+ only | <https://discord.gg/ZZvnUzn> |
 | The Chamber of Secrets | A Tom/Harry server. | 14+ only | <https://discordapp.com/invite/kPFavxE> |
-| Drarry Fans | A Harry/Draco server. | 18+ only | <https://discord.gg/Uxf4tNp> |
+| Drarry Fans | A Harry/Draco server. Has channels for German, Spanish, French and Hindi chat. | 18+ only | <https://discord.gg/Uxf4tNp> |
 
 
 
