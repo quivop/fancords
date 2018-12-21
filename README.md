@@ -10,33 +10,14 @@ Servers are pretty much going to be what I can find via searches, [Disboard](htt
 
 Obviously, which servers and fandoms get added is at my discretion. While I will try my best to add (or remove!) servers when asked via an issue, a Discord DM or a Dreamwidth PM, I will obviously make mistakes. Or the invite link I have up will turn up as expired, or the server might turn out to be private, or for the wrong fandom, or just dead. If that happens, please let me know what went wrong so I can edit the list appropriately.
 
-<!-- Time to feel like a spammer:
-
-Hi, I'm putting together a list of fannish discords, and I found an invite link to Road to Knowhere on fail_fandomanon. Is it alright to add the server to the list? -->
-
 ## Table of Contents
 
 - [Multifandom or cross-fandom servers](#Multifandom-servers)
-	<!-- - webcomics -->
-	<!-- - comic books -->
-	<!-- - metafandom discussions -->
+
 - Single fandom servers
-	<!-- - [Captive Prince](#Captive-Prince) -->
-	<!-- - [Detroit: Become Human](#Detroit) -->
 	- [Harry Potter](#Harry-Potter)
 	- [Marvel Cinematic Universe](#MCU)
-	<!-- - Star Trek (esp DS9) -->
-	<!-- - Guardians of the Galaxy -->
-
-
-<!-- Fandom Template 
-TABLE TEMPLATE
-
-| Name | Description | Notes | Invite Link |
-| -- | -- | -- | -- |
-| namae | descript | n/a | <link> |
-
--->
+	
 
 ### Multifandom servers
 
@@ -48,19 +29,6 @@ TABLE TEMPLATE
 
 
 ## Single fandom servers
-
-<!-- #### Captive Prince
-
-| Name | Description | Notes | Invite Link |
-| -- | -- | -- | -- |
-| Captive Prince Group | A server focusing on the Captive Prince fandom. | Has a private NSFW sister server you can get into by DM-ing mods for a link. Who to DM is explained in CPG rules. | <https://discord.gg/xCS3TJb> | -->
-
-<!-- #### Detroit: Become Human {#Detroit}
-
-| Name | Description | Notes | Invite Link |
-| -- | -- | -- | -- |
-| RKBOIS | A general Detroit: Become Human server. | 18+ only | <https://discord.gg/Gs6HKWJ> | -->
-
 
 #### Harry Potter
 
