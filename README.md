@@ -15,6 +15,7 @@ Obviously, which servers and fandoms get added is at my discretion. While I will
 - [Multifandom or cross-fandom servers](#Multifandom-servers)
 
 - Single fandom servers
+    - [Detroit: Become Human](#Detroit)
 	- [Harry Potter](#Harry-Potter)
 	- [Marvel Cinematic Universe](#Marvel-Cinematic-Universe)
 	
@@ -29,6 +30,12 @@ Obviously, which servers and fandoms get added is at my discretion. While I will
 
 
 ## Single fandom servers
+
+#### Detroit: Become Human {#Detroit}
+
+| Name | Description | Notes | Invite Link |
+| -- | -- | -- | -- |
+| RKBOIS | A Detroit: Become Human server. Main ships are RK/800 and RK/900, but others welcome. | 18+ only | <https://discord.gg/Gs6HKWJ> |
 
 #### Harry Potter
 
