@@ -15,6 +15,7 @@ Obviously, which servers and fandoms get added is at my discretion. While I will
 - [Multifandom or cross-fandom servers](#Multifandom-servers)
 
 - Single fandom servers
+	- [Captive Prince](#Captive-Prince)
     - [Detroit: Become Human](#Detroit)
 	- [Harry Potter](#Harry-Potter)
 	- [Marvel Cinematic Universe](#Marvel-Cinematic-Universe)
@@ -30,6 +31,12 @@ Obviously, which servers and fandoms get added is at my discretion. While I will
 
 
 ## Single fandom servers
+
+#### Captive Prince
+
+| Name | Description | Notes | Invite Link |
+| -- | -- | -- | -- |
+| Captive Prince Group | A server focusing on the Captive Prince fandom. | Has a private NSFW sister server you can get into by DM-ing mods for a link. Who to DM is explained in server rules. | <https://discord.gg/DCBfkv2> |
 
 #### Detroit: Become Human {#Detroit}
 
